@@ -1,0 +1,8 @@
+body {
+  --bs-body-font-family: var(--bs-font-monospace);
+  --bs-body-line-height: 1.4;
+  --bs-body-bg: var(--bs-gray-100);
+}
+nav {
+  padding: 0.5rem 1rem 0.5rem 1rem !important;
+}
